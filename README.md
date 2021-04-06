@@ -5,7 +5,7 @@ This program makes a Google search with your 'query' and opens the first 'n' res
 #### Installation
 
 ```
-$ git clone https://github/aytekk/googler.git
+$ git clone https://github/meryem0x/googler.git
 $ cd googler/
 $ pip3 install requirements.txt
 ```
